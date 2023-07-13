@@ -4,4 +4,3 @@ hello odin!
 
 
 
-dhat teri maa ki chut
